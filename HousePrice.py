@@ -1,3 +1,9 @@
+#The script is mostly based on Eliot Barril's Stacking Starter 
+#https://www.kaggle.com/eliotbarr/stacking-starter
+#The ideas of some parameters comes from Human Analog's XGBoost + Lasso
+#https://www.kaggle.com/humananalog/xgboost-lasso/code
+#Added features from SarthakYadav's You got this!!!! Feature Engineering and Lasso
+#https://www.kaggle.com/yadavsarthak/you-got-this-feature-engineering-and-lasso
 # Stacking Starter based on Allstate Faron's Script
 #https://www.kaggle.com/mmueller/allstate-claims-severity/stacking-starter/run/390867
 # Preprocessing from Alexandru Papiu
